@@ -10,10 +10,8 @@ public class DhoniTest {
 	//	String area = GetObj.obj().area();
 		String area = GetObjWithHelpOfInstance.obj().area();
 		System.out.println("area >"+area);
-		//System.out.println("Name >"+GetObj.obj().name());
-		//System.out.println("School >"+GetObj.obj().school());
+        System.out.println("Welcome Notes Persion X ...");
 		System.out.println("Person Y ...");
-	
 		
 	}
 
