@@ -12,6 +12,8 @@ public class DhoniTest {
 		System.out.println("area >"+area);
         System.out.println("Welcome Notes Persion X ...");
 		System.out.println("Person Y ...");
+		System.out.println("Scripted  for add sub mul");
+		
 		
 	}
 
